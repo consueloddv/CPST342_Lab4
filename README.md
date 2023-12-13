@@ -1,6 +1,6 @@
 # name
 Maria Consuelo Diaz de Valdes Navarrete
-1) Date 12/02/2023 CPST 342
+1) Date 12/12/2023 CPST 342
 2) Curse information and 
 3) https://easygrocery-list-cd10c8d51424.herokuapp.com
 4) Name app: Easy Grocery list
