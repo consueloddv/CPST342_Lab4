@@ -1,3 +1,12 @@
+# name
+Maria Consuelo Diaz de Valdes Navarrete
+1) Date 12/02/2023 CPST 342
+2) Curse information and 
+3) https://easygrocery-list-cd10c8d51424.herokuapp.com
+4) Name app: Easy Grocery list
+
+
+
 #  Hosting a Nodejs Application (Lab 4)
 Using the application provided in your assigned repository, you will walk-through the following steps to host your application on Heroku.
 
